@@ -3,6 +3,7 @@ _snippets:
     template: hugo_shortcode_named
     preview:
       text: My Custom Snippet
+      icon: nature_people
     definitions:
       snippet_name: my_custom_snippet
       named_args:
