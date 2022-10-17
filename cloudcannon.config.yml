@@ -1,2 +1,12 @@
 _snippets:
-  
+  custom_snippet:
+    template: hugo_shortcode_named
+    preview:
+      text: My Custom Snippet
+    definitions:
+      snippet_name: my_custom_snippet
+      named_args:
+        - editor_key: my_arg
+          type: string
+        - editor_key: my_other_arg
+          type: string
